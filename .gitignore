@@ -1,0 +1,8 @@
+# Price data snapshots are downloaded locally, not redistributed
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.env
